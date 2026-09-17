@@ -1,0 +1,4 @@
+kernel optimization notes
+tuning v1
+tuning v2
+tuning v3
