@@ -1,1 +1,1 @@
-Speed up the database queries.
+Speed up the caching layer.
